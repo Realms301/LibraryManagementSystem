@@ -1,0 +1,19 @@
+===== LIBRARY MENU =====
+1. Add User
+2. Remove User
+3. Show Users
+4. Add Book
+5. Remove Book
+6. Show Books
+7. Search Book by Title
+8. Search Book by Author
+9. Borrow Book
+10. Return Book
+0. Exit
+Enter choice: 2    //......User decides to remove a user which is choice '2'
+
+
+Enter User ID to remove: 567      //.....The user is prompted to enter the User ID of the user he wishes to remove. He chooses 567
+
+Enter User ID to remove: 567
+User not found.                   //.......We see that the user is not found as they were not added. The only user in the platform is Shalom Lamo with userID 1001 in the previous test
