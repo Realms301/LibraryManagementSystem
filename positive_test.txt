@@ -1,0 +1,26 @@
+===== LIBRARY MENU =====
+1. Add User
+2. Remove User
+3. Show Users
+4. Add Book
+5. Remove Book
+6. Show Books
+7. Search Book by Title
+8. Search Book by Author
+9. Borrow Book
+10. Return Book
+0. Exit
+Enter choice: 1        //....User decides to add a new user which is choice '1'
+
+
+Enter User ID: 1001     //.....User is prompted to enter the user's ID, he inputs '1001'
+
+
+Enter User ID: 1001
+Enter Name: Shalom Lamo     //.....User is prompted to enter the user's name, he inputs 'Shalom Lamo'
+
+
+
+Enter User ID: 1001
+Enter Name: Shalom Lamo
+User added successfully.        //....We see that the user has been added successfully indicating a positive test
